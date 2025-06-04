@@ -15,8 +15,7 @@ To set up and explore this Power BI dashboard:
 
 ### Requirements
 - Power BI Desktop – [Download here](https://powerbi.microsoft.com/desktop/)
-- Dataset – [Udemy Courses Dataset.xlsx](https://github.com/user-attachments/files/20592038/Udemy.Courses.Dataset.xlsx)
-
+- Dataset – [Dataset_HR_Employees_Data.xlsx](https://github.com/user-attachments/files/20592390/Dataset_HR_Employees_Data.xlsx)
 ---
 ## 🧭 Usage
 Navigate the dashboard using interactive visuals:
@@ -42,7 +41,7 @@ Navigate the dashboard using interactive visuals:
 ---
 ## Sample Dashboard Preview
 
-![Image](https://github.com/user-attachments/assets/9826c3d7-91cc-44ba-b5cb-b9efd4df91d0)
+![Image](https://github.com/user-attachments/assets/d24888bd-e7e2-4747-ba6f-4ac862a2cc5c)
 ---
 ## 🧮 DAX Formulas and Additional Information
 DAX Formulas : None
